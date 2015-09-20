@@ -209,4 +209,4 @@ xyplot(steps~interval|dayType, data = dF.means,
 
 ![](PA1_template_files/figure-html/unnamed-chunk-12-1.png) 
 
-From the panel plots, one can see that generally observe more activity throughout the day on the _weekend_, but the greatest activity generally happens in the morning on the _weekday_.
+From the panel plots, one can generally observe more activity throughout the day on the _weekend_, but the greatest activity generally happens in the morning on the _weekday_.
